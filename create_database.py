@@ -59,5 +59,5 @@ def save_to_chroma(chunks: list[Document]):
 
 #Using the OPEN API KEY
 if __name__ == "__main__":
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "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"
     main()
