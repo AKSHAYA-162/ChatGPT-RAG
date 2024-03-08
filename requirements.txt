@@ -1,0 +1,9 @@
+1) langchain
+
+2) unstructured # Document loading
+
+3) chromadb # Vector storage
+
+4) openai # For embeddings
+
+5) tiktoken  # For embeddings
